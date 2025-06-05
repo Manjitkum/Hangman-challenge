@@ -27,6 +27,6 @@ This submission is an original work authored solely by me. No part of the code h
 
 ---
 
-Contact Information:**  
+Contact Information:  
 Manjit Kumar  
 Email: mkkc42997@gmail.com
